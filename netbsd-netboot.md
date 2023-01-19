@@ -1,4 +1,4 @@
-Caviats:
+Caveats:
 
 * Exporting swap as a file produces this error: exportfs: /export/client/swap is not a directory. Remote access will fail
 
